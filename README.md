@@ -1,9 +1,9 @@
 # ISI-13-Classification-Project
 
-ISI SPRING 2019 RESEARCH PROJECT
-By: Huy Nghiem
-Assingment for the spam classifcation project for the USC MINDS research group.
-TASK: Classify whether e-mails are spams or not and produce metrics for model performance.
+ISI SPRING 2019 RESEARCH PROJECT<br>
+By: Huy Nghiem<br>
+Assingment for the spam classifcation project for the USC MINDS research group.<br>
+TASK: Classify whether e-mails are spams or not and produce metrics for model performance.<br>
 April 2019
 # ABOUT MODULE
 1. Data Exploration Module: A quick analysis of the spam dataset, extract from http://archive.ics.uci.edu/ml/datasets/spambase.
